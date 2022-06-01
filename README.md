@@ -1,2 +1,3 @@
 # CSS-My-Site
-4th exercise in Angela Yu's Webdev Bootcamp
+3rd exercise in Angela Yu's Webdev Bootcamp
+[CSS - My Site](https://haban3ra.github.io/CSS-My-Site/)
