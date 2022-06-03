@@ -8,12 +8,11 @@ body {
     text-align: center;
     margin: 18% auto;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1  {
     font-size: 4em;
-
     line-height: 2;
 }
 
@@ -21,9 +20,7 @@ h1, h2 {
     color: #66BFBF
 }
 
-h2 {
-    font-weight: normal;
-}
+
 
 h3, a {
     color: #11999E
@@ -33,6 +30,11 @@ h3, a {
     width: auto;
 } */
 
+
+
+.middle-container {
+    padding:15em;
+}
 
 .leaf {
    position: absolute;
@@ -68,7 +70,16 @@ h3, a {
 }
 
 .profile {
-    margin: 35px;
+    margin: auto;
+    width: 50%;
+    padding-bottom: 4em;
+}
+.profile img {
+    padding: 2em;
+}
+
+.profile p {
+    line-height: 2;
 }
 
 .skill-row {
@@ -90,6 +101,10 @@ h3, a {
     margin-left: 20px;
 }
 
+.skills {
+    padding: 4em;
+}
+
 .title {
     color: #171717;
     font-family: 'Merriweather', 'Times New Roman', serif;
@@ -97,5 +112,17 @@ h3, a {
     padding: 10%; */
 }
 
+.contact-me {
+    padding: 4em;
+}
 
+.contact-me h2 {
+    padding: 2em;
+}
+
+.contact-me p {
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
 
